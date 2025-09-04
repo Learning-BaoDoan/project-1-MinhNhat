@@ -1,7 +1,15 @@
+/**
+ * @file main_test.c
+ *
+ */
+
 #include <stdio.h>
+#include <direct.h>   /* For _mkdir */
+#include <sys/stat.h> /* For stat */
+#include <string.h>   /* For strrchr */
+#include <io.h>       /* For _commit */
 #include <stdlib.h>
 #include <stdint.h>
-#include <string.h>
 #include "cJSON.h"
 #include "cJSON_Utils.h"
 
@@ -255,11 +263,8 @@ int main(void) {
     
     // Try possible paths for data.json
     const char *possible_paths[] = {
-        "data.json",          // in current working directory (CWD)
-        "./data.json",        // in CWD (same as above)
-        "../data.json",       // in parent of CWD
         "data/data.json",     // in CWD/data/
-        "../data/data.json",  // in parent of CWD, then /data/
+        // ... Add other path
         NULL
     };
     
