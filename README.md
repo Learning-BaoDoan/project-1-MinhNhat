@@ -16,7 +16,7 @@ To build and run this project, you need:
 
 ## Project Structure
 
-'''
+```
 project-1-MinhNhat/
 |   .gitignore
 |   CMakeLists.txt
@@ -39,7 +39,7 @@ project-1-MinhNhat/
 \---src
         cJSON.c
         cJSON_Utils.c
-'''
+```
 
 ## Building the Project
 
