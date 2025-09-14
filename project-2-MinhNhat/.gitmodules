@@ -1,0 +1,3 @@
+[submodule "middlewares/libs_3rd/json/cJSON"]
+	path = middlewares/libs_3rd/json/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
