@@ -48,6 +48,7 @@ To build the project on Windows:
 1. Configure CMake:
 
 ```powershell
+project-1-MinhNhat
 cmake -G "MinGW Makefiles" -D CMAKE_TOOLCHAIN_FILE=../toolchain_win.cmake -B build .
 ```
 
