@@ -58,5 +58,6 @@ dkms.conf
 .vscode
 build/
 bin/
+data/
 
 weather_data.bin
