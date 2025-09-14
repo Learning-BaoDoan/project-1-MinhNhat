@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12.4)
 
-set(PROJECT_BIN "project_1")
+set(PROJECT_BIN "project-1-MinhNhat")
 project(${PROJECT_BIN} C)
 
 # Set C and C++ standards

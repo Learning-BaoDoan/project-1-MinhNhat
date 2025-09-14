@@ -48,7 +48,6 @@ To build the project on Windows:
 1. Configure CMake:
 
 ```powershell
-project-1-MinhNhat
 cmake -G "MinGW Makefiles" -D CMAKE_TOOLCHAIN_FILE=../toolchain_win.cmake -B build .
 ```
 
@@ -63,10 +62,10 @@ mingw32-make -C build -j20
 After building, you can find the executable in the `bin` directory. Run it using:
 
 ```powershell
-./bin/project_1.exe 
+./bin/project-1-MinhNhat.exe 
 ```
 
-The program will output: "main example"
+The program will output: "project-1-MinhNhat"
 
 ## Others
 
