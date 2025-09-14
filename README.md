@@ -2,12 +2,12 @@
 
 This is my project
 
-# How to build my project
+## Build my project
 
 ```powershell
-cd project-1-MinhNhat
+project-1-MinhNhat
 ```
 
 ```powershell
-cd project-2-MinhNhat
+project-2-MinhNhat
 ```
