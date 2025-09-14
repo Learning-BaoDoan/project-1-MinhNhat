@@ -1,13 +1,10 @@
 # Project_2_MinhNhat
 
 This is my project
-# Project_1_MinhNhat
-
-This is my project
 
 ## Overview
 
-Parse JSON string data using the cJSON library.
+Convert data raw to Json
 
 ## Prerequisites
 
