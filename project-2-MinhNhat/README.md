@@ -1,4 +1,4 @@
-# project-2-MinhNhat
+# Project-2-MinhNhat
 
 Program that converts binary weather data files to JSON format.
 
@@ -238,4 +238,4 @@ cmake --build build
 
 ## License
 
-This project is for educational purposes.
+See project root for details.
