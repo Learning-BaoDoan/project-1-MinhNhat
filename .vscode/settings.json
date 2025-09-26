@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "types.h": "c",
+        "direct.h": "c",
+        "stdlib.h": "c",
+        "compare": "c",
+        "binary_io.h": "c",
+        "errno.h": "c",
+        "weather_parser.h": "c"
+    }
+}
