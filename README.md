@@ -23,3 +23,7 @@ cd project-1-MinhNhat
 ```powershell
 cd project-2-MinhNhat
 ```
+
+## License
+
+This project is for educational purposes.
