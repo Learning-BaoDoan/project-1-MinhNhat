@@ -2,7 +2,7 @@
 
 A collection of personal projects by Minh Nhat.
 
-## 📂 Directory Structure
+## Directory Structure
 
 ```
 project-MinhNhat/
@@ -10,7 +10,7 @@ project-MinhNhat/
 └── project-2-MinhNhat/
 ```
 
-## 🔧 How to Build
+## How to Build
 
 ### Project 1
 
