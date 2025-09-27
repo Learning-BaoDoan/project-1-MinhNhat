@@ -40,7 +40,7 @@ target_link_libraries(weather_parser_lib binary_io json_writer)
 
 # Create main executable
 add_executable(${PROJECT_BIN}
-    ${PROJECT_SOURCE_DIR}/src/main.c
+    ${PROJECT_SOURCE_DIR}/main.c
 )
 
 # Link executable with libraries
